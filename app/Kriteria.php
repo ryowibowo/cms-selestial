@@ -11,7 +11,7 @@ class Kriteria extends Model
     protected $primaryKey = 'id';
 
      protected $fillable = [
-    	'name','createby', 'lastby', 'lastby', 'lastupdate'
+    	'name','createby', 'lastby1', 'lastby', 'lastupdate'
     ];
 
     protected $hidden = [
