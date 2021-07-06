@@ -15,7 +15,7 @@
                                 <thead>
                                     <tr>
                                         <th>#</th>
-                                        <th>Name</th>
+                                        <th>Nameee</th>
                                         <th>Email</th>
                                         <th>Action</th>
                                     </tr>
